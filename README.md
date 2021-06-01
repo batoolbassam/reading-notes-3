@@ -9,3 +9,4 @@ Revisions and the Cloud
 ## Getting help
 *There are three ways to get more information on a particular command, by accessing the manual:*
 ``` git help command, git command --help, man git-command ```
+.
